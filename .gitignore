@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Playwright artifacts
+playwright-report/
+test-results/
+
+# Build/Dist
+dist/
+
+# Credentials/Secrets (added for good practice)
+.env
+
+# Other
+*.json
